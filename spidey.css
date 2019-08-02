@@ -1,0 +1,19 @@
+h1{color:crimson;font-family:Georgia, serif; }
+h3{color:navy;font-family:"Lucida Console", Monaco, monospace; }
+h4{color:firebrick;font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif}
+body{
+background-color:cornflowerblue;}
+
+.navbar {
+  background-color:midnightblue;
+  overflow: hidden;
+}
+
+.navbar a {
+  float: center;
+  display: block;
+  color: yellow;
+  text-align: center;
+  padding: 15px 15px;
+  font-size: 17px;
+}
